@@ -5,7 +5,7 @@
 	</p>
 	<br />
 	<p>
-		<a href="https://guilded.gg/ikelene"><img src="https://img.shields.io/badge/chat-5%20online-yellow?style=for-the-badge&logo=guilded&logoColor=white" alt="Discord server" /></a>
+		<a href="https://guilded.gg/ikelene"><img src="https://img.shields.io/badge/chat-15%20members-yellow?style=for-the-badge&logo=guilded&logoColor=white" alt="Discord server" /></a>
 		<a href="https://github.com/Ikelene/ScratchCord/releases"><img src="https://img.shields.io/badge/Downloads-0-BrightGreen?style=for-the-badge" alt="GitHub Downloads" /></a>
 		<a href="https://github.com/Ikelene/ScratchCord/releases"><img src="https://img.shields.io/badge/Server%20Status-offline-red?style=for-the-badge" alt="Tests status" /></a>
     <a href="https://github.com/Ikelene/ScratchCord/issues"><img src="https://img.shields.io/badge/Bugs-2-orange?style=for-the-badge" alt="Tests status" /></a>
@@ -34,4 +34,9 @@ Encrypted channel makes all messages end to end encrypted so outsiders cannot vi
 Supporters can change their profile pictures by clicking the "Change PFP" button and choosing between AI to make a new image or uploading an existing one. Note: Uploading images requires you to store the image on a **URI** and upload that link to the app.
 To become a supporter join the Guilded and make sure to subscribe to the YouTube channel.
 
-# THIS PROJECT IS OPEN-SOURCE, DO NOT REUPLOAD UNLESS MAJOR CHANGES ARE MADE
+<div align="center">
+	<p>
+		<a href="https://guilded.gg/ikelene"><img src="https://img.shields.io/badge/chat-Join!-yellow?style=for-the-badge&logo=guilded&logoColor=white" alt="Guilded Server" /></a>
+		<a href="https://youtube.com/@ikelene69"><img src="https://img.shields.io/badge/YouTube-%5BIkelene%5D-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" /></a>
+	</p>
+</div>
