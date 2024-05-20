@@ -1,6 +1,6 @@
 # ScratchCord
 uh yeah its just discord in scratch (using plugins)
-
+## THIS ACUALLY WORKS, You can chat with your friends over the internet using this.
 When logging in with the new method, due to some bugs you must enter username, click enter and then click into password field.
 Alternativly you can just use the old login that uses scratch's ask block.
 ![image](https://github.com/Ikelene/ScratchCord/assets/170349413/d5c8a71b-9fae-45ee-aa00-5305ddb4ccdf)
