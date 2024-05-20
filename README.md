@@ -15,4 +15,4 @@ Encrypted channel makes all messages end to end encrypted so outsiders cannot vi
 Supporters can change their profile pictures by clicking the "Change PFP" button and choosing between AI to make a new image or uploading an existing one. Note: Uploading images requires you to store the image on a **URI** and upload that link to the app.
 To become a supporter join the Guilded and make sure to subscribe to the YouTube channel.
 
-# DO NOT UNPACKAGE OR READ THE CODE!!
+# THIS PROJECT IS OPEN-SOURCE, DO NOT REUPLOAD UNLESS MAJOR CHANGES ARE MADE
