@@ -1,3 +1,21 @@
+<div align="center">
+	<br />
+	<p>
+		<a href="ikelene.ca/scratchcord"><img src="https://github.com/Ikelene/ScratchCord/assets/170349413/ba86b8bf-8a07-450c-bd78-5f30cd9ce08e" width="546" alt="ScratchCord" /></a>
+	</p>
+	<br />
+	<p>
+		<a href="https://guilded.gg/ikelene"><img src="https://img.shields.io/badge/chat-5%20online-yellow?style=for-the-badge&logo=guilded&logoColor=white" alt="Discord server" /></a>
+		<a href="https://github.com/Ikelene/ScratchCord/releases"><img src="https://img.shields.io/badge/Downloads-0-BrightGreen?style=for-the-badge" alt="GitHub Downloads" /></a>
+		<a href="https://github.com/Ikelene/ScratchCord/releases"><img src="https://img.shields.io/badge/Server%20Status-offline-red?style=for-the-badge" alt="Tests status" /></a>
+    <a href="https://github.com/discordjs/discord.js/actions"><img src="https://img.shields.io/badge/Bugs-2-orange?style=for-the-badge" alt="Tests status" /></a>
+	</p>
+	<p>
+		<a href="https://penguinmod.com"><img src="https://img.shields.io/badge/Powered%20By-PenguinMod-blue?style=for-the-badge&logo=scratch&logoColor=white" alt="Powered by PenguinMod" height="44" /></a>
+		<a href="ikelene.ca"><img src="https://github.com/Ikelene/ScratchCord/assets/170349413/4375dd10-b2e2-4630-ab07-4e5d68126c78" alt="Ikelene Created" height="44" /></a>
+	</p>
+</div>
+
 # ScratchCord
 uh yeah its just discord in scratch (using plugins)
 ## THIS ACUALLY WORKS, You can chat with your friends over the internet using this.
