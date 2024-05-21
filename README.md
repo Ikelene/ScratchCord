@@ -1,7 +1,7 @@
 <div align="center">
 	<br />
 	<p>
-		<a href="ikelene.ca/scratchcord"><img src="https://github.com/Ikelene/ScratchCord/assets/170349413/ba86b8bf-8a07-450c-bd78-5f30cd9ce08e" width="546" alt="ScratchCord" /></a>
+		<a href="ikelene.ca/scratchcord"><img src="https://github.com/Ikelene/ScratchCord/assets/170349413/822f5a0a-65d2-4e81-af88-2a3c9cb926b7" width="546" alt="ScratchCord" /></a>
 	</p>
 	<br />
 	<p>
