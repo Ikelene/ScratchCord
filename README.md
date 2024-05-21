@@ -7,7 +7,7 @@
 	<p>
 		<a href="https://guilded.gg/ikelene"><img src="https://img.shields.io/badge/chat-15%20members-yellow?style=for-the-badge&logo=guilded&logoColor=white" alt="Discord server" /></a>
 		<a href="https://github.com/Ikelene/ScratchCord/releases"><img src="https://img.shields.io/badge/Downloads-0-BrightGreen?style=for-the-badge" alt="GitHub Downloads" /></a>
-		<a href="https://github.com/Ikelene/ScratchCord/releases"><img src="https://img.shields.io/badge/Server%20Status-offline-red?style=for-the-badge" alt="Tests status" /></a>
+		<a href="https://github.com/Ikelene/ScratchCord/releases"><img src="https://img.shields.io/badge/Server%20Status-online-brightgreen?style=for-the-badge" alt="Tests status" /></a>
     <a href="https://github.com/Ikelene/ScratchCord/issues"><img src="https://img.shields.io/badge/Bugs-2-orange?style=for-the-badge" alt="Tests status" /></a>
 	</p>
 	<p>
