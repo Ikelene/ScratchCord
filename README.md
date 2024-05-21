@@ -75,6 +75,6 @@ Encrypted channel makes all messages end to end encrypted so outsiders cannot vi
 Supporters can change their profile pictures by clicking the "Change PFP" button and choosing between AI to make a new image or uploading an existing one. Note: Uploading images requires you to store the image on a **URI** and upload that link to the app.
 To become a supporter join the Guilded and make sure to subscribe to the YouTube channel.
 
-#ChatGPT Integration
+# ChatGPT Integration
 
 ChatGPT 3.5, 4 and DALL-E are integrated into the chat as well, 3.5 is availible to all with 4 and DALL-E being for supporters. DALL-E is used for generating profile pictures when you don't know an image or have a URI. 4 is a channel labeled as "IkeGPT 4.0" or "PoshGPT 4.0". Please direct your attension to the above to see if AI function is working or not.
