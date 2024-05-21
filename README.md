@@ -25,7 +25,20 @@ uh yeah its just discord in scratch (using plugins from penguin mod)
 		<a href="https://youtube.com/@ikelene69"><img src="https://img.shields.io/badge/ChatGPT-offline-red?logo=openai&logoColor=white" alt="ChatGPT" /></a>
 	</p>
 </div>
+
 ## THIS ACUALLY WORKS, You can chat with your friends over the internet using this.
+
+## Supported Versions
+
+Currently supported versions by the server:
+
+| Version | Supported          |
+| ------- | ------------------ |
+| v7.2.2  | :white_check_mark: |
+| v7.2.1  | :x:                |
+| v6.2.0  | :x:                |
+| < 5.1.0 | :x:                |
+
 ### Do not use your real password. They are unsecured (stored on my server) I can view your passwords and users at any time. (Fix coming soon.)
 When logging in with the new method, due to some bugs you must enter username, click enter and then click into password field.
 Alternativly you can just use the old login that uses scratch's ask block.
