@@ -8,7 +8,7 @@
 		<a href="https://guilded.gg/ikelene"><img src="https://img.shields.io/badge/chat-15%20members-yellow?style=for-the-badge&logo=guilded&logoColor=white" alt="Discord server" /></a>
 		<a href="https://github.com/Ikelene/ScratchCord/releases"><img src="https://img.shields.io/badge/Downloads-0-BrightGreen?style=for-the-badge" alt="GitHub Downloads" /></a>
 		<a href="https://github.com/Ikelene/ScratchCord/releases"><img src="https://img.shields.io/badge/Server%20Status-online-brightgreen?style=for-the-badge" alt="Tests status" /></a>
-    <a href="https://github.com/Ikelene/ScratchCord/issues"><img src="https://img.shields.io/badge/Bugs-2-orange?style=for-the-badge" alt="Tests status" /></a>
+    <a href="https://github.com/Ikelene/ScratchCord/issues"><img src="https://img.shields.io/badge/Bugs-2-orange?style=for-the-badge" alt="Tests status" />
 	</p>
 	<p>
 		<a href="https://penguinmod.com"><img src="https://img.shields.io/badge/Powered%20By-PenguinMod-blue?style=for-the-badge&logo=scratch&logoColor=white" alt="Powered by PenguinMod" height="44" /></a>
@@ -17,7 +17,7 @@
 </div>
 
 # ScratchCord
-uh yeah its just discord in scratch (using plugins)
+uh yeah its just discord in scratch (using plugins from penguin mod)
 ## THIS ACUALLY WORKS, You can chat with your friends over the internet using this.
 ### Do not use your real password. They are unsecured (stored on my server) I can view your passwords and users at any time. (Fix coming soon.)
 When logging in with the new method, due to some bugs you must enter username, click enter and then click into password field.
