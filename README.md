@@ -28,6 +28,23 @@ uh yeah its just discord in scratch (using plugins from penguin mod)
 
 ## THIS ACUALLY WORKS, You can chat with your friends over the internet using this.
 
+## Table of contents
+✅ [Supported Versions](/README.md#supported-versions)
+
+🖥️ [Navigating the interface](/README.md#navigating-the-interface)
+
+🥇 [Supporters](/README.md#supporters)
+
+💬 [ChatGPT Integration](/README.md#chatgpt-integration)
+
+#### Other Info
+
+⚖️ [LICENSE](/LICENSE)
+
+🤝 [Code of conduct](/CODE_OF_CONDUCT.md)
+
+🔐 [Security](/SECURITY.md)
+
 ## Supported Versions
 
 Currently supported versions by the server:
@@ -38,6 +55,8 @@ Currently supported versions by the server:
 | v7.2.1  | :x:                |
 | v6.2.0  | :x:                |
 | < 5.1.0 | :x:                |
+
+# Navigating the interface
 
 ### Do not use your real password. They are unsecured (stored on my server) I can view your passwords and users at any time. (Fix coming soon.)
 When logging in with the new method, due to some bugs you must enter username, click enter and then click into password field.
@@ -50,6 +69,8 @@ Use menu button to navigate between channels. PoYo channel will link to the game
 Encrypted channel makes all messages end to end encrypted so outsiders cannot view them. This action requires the server to be online which is indicated by the dot on the #.
 
 ![image](https://github.com/Ikelene/ScratchCord/assets/170349413/e5d6435c-3dee-4904-91e1-a9f503c2abb0)
+
+# Supporters
 
 Supporters can change their profile pictures by clicking the "Change PFP" button and choosing between AI to make a new image or uploading an existing one. Note: Uploading images requires you to store the image on a **URI** and upload that link to the app.
 To become a supporter join the Guilded and make sure to subscribe to the YouTube channel.
