@@ -8,7 +8,7 @@
 		<a href="https://guilded.gg/ikelene"><img src="https://img.shields.io/badge/chat-15%20members-yellow?style=for-the-badge&logo=guilded&logoColor=white" alt="Discord server" /></a>
 		<a href="https://github.com/Ikelene/ScratchCord/releases"><img src="https://img.shields.io/github/downloads/Ikelene/ScratchCord/total?style=for-the-badge" alt="GitHub Downloads" /></a>
 		<a href="https://github.com/Ikelene/ScratchCord/releases"><img src="https://img.shields.io/badge/Server%20Status-online-brightgreen?style=for-the-badge" alt="Tests status" /></a>
-    <a href="https://github.com/Ikelene/ScratchCord/issues"><img src="https://img.shields.io/badge/Bugs-2-orange?style=for-the-badge" alt="Tests status" />
+    <a href="https://github.com/Ikelene/ScratchCord/issues"><img src="https://img.shields.io/github/issues/Ikelene/ScratchCord?style=for-the-badge" alt="Tests status" />
 	</p>
 	<p>
 		<a href="https://penguinmod.com"><img src="https://img.shields.io/badge/Powered%20By-PenguinMod-blue?style=for-the-badge&logo=scratch&logoColor=white" alt="Powered by PenguinMod" height="44" /></a>
