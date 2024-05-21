@@ -22,7 +22,7 @@ uh yeah its just discord in scratch (using plugins from penguin mod)
 	<p>
 		<a href="https://guilded.gg/ikelene"><img src="https://img.shields.io/badge/Chat-Join!-yellow?logo=guilded&logoColor=white" alt="Guilded Server" /></a>
 		<a href="https://youtube.com/@ikelene69"><img src="https://img.shields.io/badge/YouTube-%5BIkelene%5D-red?logo=youtube&logoColor=white" alt="YouTube Channel" /></a>
-		<a href="https://youtube.com/@ikelene69"><img src="https://img.shields.io/badge/ChatGPT-online-brightgreen?logo=openai&logoColor=white" alt="ChatGPT" /></a>
+		<a href="https://youtube.com/@ikelene69"><img src="https://img.shields.io/badge/ChatGPT-offline-red?logo=openai&logoColor=white" alt="ChatGPT" /></a>
 	</p>
 </div>
 ## THIS ACUALLY WORKS, You can chat with your friends over the internet using this.
