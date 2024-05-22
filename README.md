@@ -28,6 +28,8 @@ uh yeah its just discord in scratch (using plugins from penguin mod)
 
 ## THIS ACUALLY WORKS, You can chat with your friends over the internet using this.
 
+### There IS an integration with Guilded, Every message sent on ScratchCord is also sent to my guilded server in the ScratchCord channel. As of now you CANNOT do Guilded --> ScratchCord. Only vice versa.
+
 ## Table of contents
 ✅ [Supported Versions](/README.md#supported-versions)
 
@@ -51,10 +53,10 @@ Currently supported versions by the server:
 
 | Version | Supported          |
 | ------- | ------------------ |
-| v7.2.2  | :white_check_mark: |
+| v7.3.0  | :white_check_mark: |
+| v7.2.2  | :x:                |
 | v7.2.1  | :x:                |
-| v6.2.0  | :x:                |
-| < 5.1.0 | :x:                |
+| < 6.2.0 | :x:                |
 
 # Navigating the interface
 
