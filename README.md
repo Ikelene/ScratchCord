@@ -25,6 +25,7 @@ uh yeah its just discord in scratch (using plugins from penguin mod)
 		<a href="https://youtube.com/@ikelene69"><img src="https://img.shields.io/badge/ChatGPT-offline-red?logo=openai&logoColor=white" alt="ChatGPT" /></a>
 	</p>
 </div>
+# Some servers are down, connect to server 4 for now.
 
 ## THIS ACUALLY WORKS, You can chat with your friends over the internet using this.
 
@@ -53,6 +54,7 @@ Currently supported versions by the server:
 
 | Version | Supported          |
 | ------- | ------------------ |
+| v7.3.3  | :white_check_mark: |
 | v7.3.1 and v7.3.2  | :white_check_mark: |
 | v7.3.0  | :white_check_mark: |
 | v7.2.2  | :x:                |
