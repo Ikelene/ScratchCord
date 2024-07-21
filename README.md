@@ -75,7 +75,7 @@ Encrypted channel makes all messages end to end encrypted so outsiders cannot vi
 # Supporters
 
 Supporters can change their profile pictures by clicking the "Change PFP" button and choosing between AI to make a new image or uploading an existing one. Note: Uploading images requires you to store the image on a **URI** and upload that link to the app.
-To become a supporter join the Guilded and make sure to subscribe to the YouTube channel.
+Support me through this project and become a supporter! --> https://www.ikelene.ca/downloads/scratchcord/
 
 # ChatGPT Integration
 
