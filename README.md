@@ -5,6 +5,7 @@
 	</p>
 	<br />
 	<p>
+		<a href="https://guilded.gg/ikelene"><img src="https://camo.githubusercontent.com/77effe5d7a26892e2b1162c882acc96181c750dddec426d48787b21f332d8958/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d6164655f776974682d2545322539442541342d7265643f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d6f72616e6765" alt="Discord server" /></a>
 		<a href="https://guilded.gg/ikelene"><img src="https://img.shields.io/badge/chat-16%20members-yellow?style=for-the-badge&logo=guilded&logoColor=white" alt="Discord server" /></a>
 		<a href="https://github.com/Ikelene/ScratchCord/releases"><img src="https://img.shields.io/github/downloads/Ikelene/ScratchCord/total?style=for-the-badge" alt="GitHub Downloads" /></a>
 		<a href="https://github.com/Ikelene/ScratchCord/releases"><img src="https://img.shields.io/badge/Server%20Status-online-brightgreen?style=for-the-badge" alt="Tests status" /></a>
@@ -22,7 +23,7 @@ uh yeah its just discord in scratch (using plugins from penguin mod)
 	<p>
 		<a href="https://guilded.gg/ikelene"><img src="https://img.shields.io/badge/Chat-Join!-yellow?logo=guilded&logoColor=white" alt="Guilded Server" /></a>
 		<a href="https://youtube.com/@ikelene69"><img src="https://img.shields.io/badge/YouTube-%5BIkelene%5D-red?logo=youtube&logoColor=white" alt="YouTube Channel" /></a>
-		<a href="https://youtube.com/@ikelene69"><img src="https://img.shields.io/badge/ChatGPT-offline-red?logo=openai&logoColor=white" alt="ChatGPT" /></a>
+		<a href="https://youtube.com/@ikelene69"><img src="https://img.shields.io/badge/ChatGPT-online-green?logo=openai&logoColor=white" alt="ChatGPT" /></a>
 	</p>
 </div>
 # Some servers are down, connect to server 4 for now.
