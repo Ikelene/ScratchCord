@@ -30,7 +30,9 @@ uh yeah its just discord in scratch (using plugins from penguin mod)
 
 ## THIS ACUALLY WORKS, You can chat with your friends over the internet using this.
 
-### There IS an integration with Guilded, Every message sent on ScratchCord is also sent to my guilded server in the ScratchCord channel. As of now you CANNOT do Guilded --> ScratchCord. Only vice versa.
+### There IS an integration with Discord, Every message sent on ScratchCord is also sent to my discord server in the ScratchCord channel. As of now you CANNOT do Discord --> ScratchCord. Only vice versa.
+
+## Use online --> [Click me](https://ikelene.ca/content/ScratchCord.html)
 
 ## Table of contents
 ✅ [Supported Versions](/README.md#supported-versions)
