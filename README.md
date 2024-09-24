@@ -65,6 +65,10 @@ Currently supported versions by the server:
 | v7.3.3  | :x:                |
 | < 7.3.0 | :x:                |
 
+# Modding Support
+
+The official list of ScratchCord mods is [here](https://github.com/Ikelene/ScratchCord-Mods). Use the format in the [README](https://github.com/Ikelene/ScratchCord-Mods/README.md) to publish a mod using the latest `ScratchCord.pmp`.
+
 # Navigating the interface
 
 ### Do not use your real password. They are unsecured (stored on my server) I can view your passwords and users at any time. (Fix coming soon.)
