@@ -26,7 +26,10 @@ uh yeah its just discord in scratch (using plugins from penguin mod)
 		<a href="https://youtube.com/@ikelene69"><img src="https://img.shields.io/badge/ChatGPT-online-green?logo=openai&logoColor=white" alt="ChatGPT" /></a>
 	</p>
 </div>
-# Some servers are down, connect to server 4 for now.
+
+# ⚠️ I am working on a major revamp on the way the server works, all old mods for ScratchCord WILL stop working.
+
+Attempt to keep your mods in seperate sprites that are not part of vanilla ScratchCord for an easier port to the newer version, otherwise it will be very hard to update your mods.
 
 ## THIS ACUALLY WORKS, You can chat with your friends over the internet using this.
 
